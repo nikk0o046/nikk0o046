@@ -8,7 +8,7 @@
 
 **Projects Showcase:**
 
-**carryoncarlos.com: An AI-powered natural language flight search tool.**  
+[carryoncarlos.com](https://carryoncarlos.com) **An AI-powered natural language flight search tool.**  
 This is my main project. It is structured in two separate repositories (frontend and backend). Both of them are pinned in my profile. I'm more proficient with backend developing though: frontend is mostly built using youtube tutorials and ChatGPT.
 The website is up-and-running and can be used to search and book real flights, but this project is still on-going as there are many improvements that can be made.
 
