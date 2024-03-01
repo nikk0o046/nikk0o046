@@ -1,5 +1,5 @@
 👋 Hello, I'm Niko Virtanen  
-🌍 Based in Helsinki, Finland | 📧 niko.virtanen@alumni.aalto.fi
+niko.virtanen@alumni.aalto.fi
 
 **About Me:**  
 🚀 From Business to AI/ML: After starting my career in business and data analysis, I've pivoted to the tech field with a focus on Natural Language Processing (NLP) and Large Language Models (LLMs). My journey includes extensive online courses and hands-on projects.
@@ -24,6 +24,3 @@ Other Technologies: Docker, Google Cloud, APIs, Pinecone
 **Education:**  
 Data Scientist: Natural Language Processing Specialist Career Path - Codecademy Certificate
 M.Sc. in Economics and Business Administration - Aalto University School of Business, Helsinki
-
-**Looking Forward:**  
-💼 I'm actively seeking opportunities where I can contribute to innovative AI/ML projects, particularly in remote roles within Europe.
