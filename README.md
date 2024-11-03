@@ -1,26 +1,28 @@
-👋 Hello, I'm Niko Virtanen  
-niko.virtanen@alumni.aalto.fi
+# Niko Virtanen
+Senior Data Scientist @ Deutsche Telekom | niko.virtanen@alumni.aalto.fi
 
-**About Me:**  
-🚀 From Business to AI/ML: After starting my career in business and data analysis, I've pivoted to the tech field with a focus on Natural Language Processing (NLP) and Large Language Models (LLMs). My journey includes extensive online courses and hands-on projects.
+## About Me
+Data scientist specializing in LLMs and prompt engineering, with experience in developing enterprise-scale AI solutions. Combining technical expertise with business understanding to deliver reliable, production-grade applications.
 
-🔍 What Drives Me: I am deeply fascinated by the endless possibilities of AI, especially in understanding and generating human language. My goal is to merge my analytical skills from my business background with my technical expertise to innovate in the field of NLP and AI.
+## Projects
+Note: Most of my recent work involves private enterprise repositories. Public repositories here contain personal projects and experiments.
 
-**Projects Showcase:**
+### Carry On Carlos
+AI-powered natural language flight search tool built with Python/React
+- Natural language processing for flight queries
+- Integration with flight booking APIs
+- Full-stack implementation with separate frontend/backend repositories
 
-[carryoncarlos.com](https://carryoncarlos.com) **An AI-powered natural language flight search tool.**  
-This is my main project. It is structured in two separate repositories (frontend and backend). Both of them are pinned in my profile. I'm more proficient with backend developing though: frontend is mostly built using youtube tutorials and ChatGPT.
-The website is up-and-running and can be used to search and book real flights, but this project is still on-going as there are many improvements that can be made.
+### Jobbot
+Tool that matches users with relevant job listings based on their background and preferences.
 
-**Jobbot**: A tool that matches users with relevant job listings based on their background and preferences.  
+### Gluten Analyzer
+Utilizes OCR and NLP to detect gluten in product labels.
 
-**Gluten Analyzer**: Utilizes OCR and NLP to detect gluten in product labels.
+## Skills
+- **LLM & NLP:** GPT-4, LLaMA, Prompt Engineering, RAG, Embeddings
+- **Core:** Python, SQL, Docker, Kubernetes
+- **Frameworks:** PyTorch, Hugging Face, FastAPI
 
-**Skills and Technologies:**  
-Languages: Most proficient in Python. Also, I've used Javascript/React to create frontends for my web app projects. I have also used R and Java for my university studies.  
-AI & ML: OpenAI, Fine-Tuning, LLM Chains, Word Embeddings, Transformers, Pytorch, TensorFlow, Langchain, Prompt Engineering  
-Other Technologies: Docker, Google Cloud, APIs, Pinecone  
-
-**Education:**  
-Data Scientist: Natural Language Processing Specialist Career Path - Codecademy Certificate
-M.Sc. in Economics and Business Administration - Aalto University School of Business, Helsinki
+## Education
+M.Sc. in Economics and Business Administration - Aalto University
