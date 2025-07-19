@@ -1,5 +1,5 @@
 # Niko Virtanen
-Senior Data Scientist @ Deutsche Telekom | niko.virtanen@alumni.aalto.fi
+niko.virtanen@alumni.aalto.fi
 
 ## About Me
 Data scientist specializing in LLMs and prompt engineering, with experience in developing enterprise-scale AI solutions. Combining technical expertise with business understanding to deliver reliable, production-grade applications.
